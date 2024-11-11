@@ -2,7 +2,7 @@
 <img src="https://github.com/Ghostdoce/IHC2/blob/8df2895b8776b287b959784bd22092b9284d3633/docs/2.%20Design_Thinking/2.3%20Storyboard/images/storyb%204.jpeg" width="300">
 
 **Resumo**
-Yago, 25 anos, é administrador bancário com deficiência físico-motora e crises de ansiedade. Ele usa um app de relaxamento e precisa de uma interface acessível e intuitiva, com suporte para comandos de voz, teclado virtual e navegação simplificada.
+Yago é administrador bancário com deficiência físico-motora e crises de ansiedade. Ele usa um app de relaxamento e precisa de uma interface acessível e intuitiva, com suporte para comandos de voz, teclado virtual e navegação simplificada.
 
 * **Quadrinho 1**    
 Yago, 25 anos, é administrador em um banco. Ele é criativo, resiliente e determinado, mas enfrenta desafios diários por conta de uma deficiência físico-motora.
