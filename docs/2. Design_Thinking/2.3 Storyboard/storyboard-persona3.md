@@ -3,9 +3,11 @@
 
 Resumo:
 
+Lara Croft, administradora de um app, é organizada e focada em garantir segurança e bom desempenho. Ela gerencia o back-end, revisa conteúdos e busca uma solução com monitoramento robusto, alertas automáticos e relatórios para aprimorar o sistema com base no feedback dos usuários.
+
 Quadrinho 1:
 
-a mulher se encontra preocupada e assustada com um olhar de confusão certamente irritada com o sistema. 
+A Lara se encontra preocupada e assustada com um olhar de confusão certamente irritada com o sistema. 
 
 Quadrinho 2:
 
@@ -17,7 +19,7 @@ Escritorio desorganizado, com papeis e documentos esplhados, sala quase vazia, i
 
 Quadrinho 4:
 
-Mulher se encontra euforica e preocupada, claramente e situação de estresse ou exaustão mental, sua espressão está mais aflita.
+A Lara se encontra euforica e preocupada, claramente e situação de estresse ou exaustão mental, sua espressão está mais aflita.
 
 Quadrinho 5:
 
