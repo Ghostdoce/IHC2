@@ -3,17 +3,19 @@
 
 Quadrinho 1:
 
-preocupada com as demandas do site onde trabalha tenta manter ele monitorado e atulizado
+a mulher se encontra preocupada e assustada com um olhar de confusão certamente irritada com o sistema 
 
 Quadrinho 2:
 
-muito cansado com o trabalho
+A mesma continua trabalhando com  sinais de frustações e irritações, seu ambiente de trabalho está desorganizado e sobrecarregado do trabalho
 
 Quadrinho 3:
 
-
+Escritorio desorganizado, com papeis e documentos esplhados, sala quase vazia, indicando o abandono do lugar 
 
 Quadrinho 4:
+
+
 
 Quadrinho 5:
 
