@@ -7,7 +7,7 @@ Integrantes:
 * Lucas castro dos Anjos Matrícula: 22402227
 * Marcos Gabriel Liborio Pontes Matrícula: 22400258
 
-**Docente:** Andrey Rodrigues
+**Docente:** ANDREY ANTONIO DE OLIVEIRA RODRIGUES
 
 **Nome do sistema:** App de Cuidados Mentais Voltados a Ansiedade
 
