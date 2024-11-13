@@ -15,4 +15,4 @@ Integrantes:
 
 **Processos feitos:**
 
-links para cada diretório
+[clique aqui para acessar a proposta](https://github.com/Ghostdoce/IHC2/tree/main/docs/1.%20Proposta)
