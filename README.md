@@ -9,7 +9,7 @@ Integrantes:
 
 **Docente:** ANDREY ANTONIO DE OLIVEIRA RODRIGUES
 
-**Nome do sistema:** App de Cuidados Mentais Voltados a Ansiedade
+**Nome do sistema:** Life Happy-Saude Mental e Bem Estar
 
 **Objetivo do trabalho:** O design de aplicativo de ansiedade projetado para oferecer suporte no manejo de pessoas ansiosas, promovendo a saúde mental e emocional de forma prática e acessível. Com base em abordagens científicas e terapêuticas, o app proporciona ferramentas diárias para que você aprenda a gerenciar seus sentimentos e encontrar equilíbrio no dia a dia.
 
@@ -19,3 +19,10 @@ Integrantes:
 
 
 [clique aqui para acessar o design_thinking](https://github.com/Ghostdoce/IHC2/tree/main/docs/2.%20Design_Thinking)
+
+###  Referências
+
+
+RAMOS, Renato Teodoro. Transtornos de ansiedade. RBM rev. bras. med, 2009.
+
+CLARK, David A.; BECK, Aaron T. Vencendo a Ansiedade e a Preocupação: Com a Terapia Cognitivo-Comportamental. Artmed Editora, 2024.
