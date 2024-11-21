@@ -1,5 +1,8 @@
 # TP2 IHC
-Curso: Interação Humano Computador
+Curso: Engenharia de Software
+
+
+Disciplina: Interação Humano-Computador
 
 Integrantes:
 * Iago Vinicius Farias do Amaral matrícula: 22450579
