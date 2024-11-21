@@ -9,7 +9,7 @@ Integrantes:
 
 **Docente:** ANDREY ANTONIO DE OLIVEIRA RODRIGUES
 
-**Nome do sistema:** Life Happy-Saude Mental e Bem Estar
+**Nome do sistema:** Life Happy-Saúde Mental e Bem Estar
 
 **Objetivo do trabalho:** O design de aplicativo de ansiedade projetado para oferecer suporte no manejo de pessoas ansiosas, promovendo a saúde mental e emocional de forma prática e acessível. Com base em abordagens científicas e terapêuticas, o app proporciona ferramentas diárias para que você aprenda a gerenciar seus sentimentos e encontrar equilíbrio no dia a dia.
 
