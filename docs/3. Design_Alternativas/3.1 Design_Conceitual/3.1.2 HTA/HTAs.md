@@ -1,6 +1,6 @@
 # Hierarchical Task Analysis(HTAs)
 
-## Realizamos a criação de um HTA (Hierarchical Task Analysis) seguindo um processo estruturado. Inicialmente, definimos o objetivo principal, identificando a meta global que o usuário deseja alcançar. Em seguida, dividimos o objetivo em tarefas principais, listando as etapas amplas e necessárias. Cada tarefa foi decomposta em subtarefas detalhadas, permitindo maior clareza no processo.
+## Realizamos a criação dos HTAs (Hierarchical Task Analysis) seguindo um processo estruturado. Inicialmente, definimos o objetivo principal, identificando a meta global que o usuário deseja alcançar. Em seguida, dividimos o objetivo em tarefas principais, listando as etapas amplas e necessárias. Cada tarefa foi decomposta em subtarefas detalhadas, permitindo maior clareza no processo.
 ## Determinamos planos de execução que orientam a ordem ou condições para realizar as tarefas, incluindo situações sequenciais ou condicionais. Após isso, validamos e ajustamos o HTA para garantir que representa fielmente o processo. Por fim, organizamos o HTA em formatos textuais e visuais, facilitando sua interpretação e aplicação.
 
 
