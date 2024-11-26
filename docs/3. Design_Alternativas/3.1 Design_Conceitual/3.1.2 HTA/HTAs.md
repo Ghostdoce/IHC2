@@ -5,17 +5,19 @@
 
 
 #  HTA Editar Lembrete.
-<img src="https://github.com/user-attachments/assets/3953f971-872f-49e1-8a06-f325cecccb3f" width="1000">
+<img src="https://github.com/user-attachments/assets/db44d294-a660-4e63-926a-e646832e585c" width="850">
 
 #  HTA Criar Bate-Papo.
-<img src="https://github.com/user-attachments/assets/4759df52-e415-4655-87ae-bce11bd29ae1" width="1000">
+<img src="https://github.com/user-attachments/assets/9da5af72-a2c7-4f86-8f88-e17e50906f85" width="850">
 
 # HTA Criar Lembrete.
-<img src="https://github.com/user-attachments/assets/0dc5bdfc-1002-4969-b602-f12a59089e6b" width="1000">
+<img src="https://github.com/user-attachments/assets/02345027-8f80-41ce-9813-360e8ac2527b" width="850">
 
 # HTA Personalizar Configurações de Acessibilidade.
-<img src="https://github.com/user-attachments/assets/6002b15c-99b0-4654-b6c7-9bc966047771" width="1000">
+<img src="https://github.com/user-attachments/assets/04ba87be-fc64-4769-83fe-c8a6d2455c90" width="850">
 
-# HTA Acessar Material de Autocuidade
-<img src="https://github.com/user-attachments/assets/85e4fa83-c81c-4119-9f15-f98628354924" width="1000">
+# HTA Acessar Material de Autocuidado
+<img src="https://github.com/user-attachments/assets/c6c8d379-8ab7-4ef4-9573-94caedffc52f" width="850">
+
+
 
