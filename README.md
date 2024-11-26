@@ -18,10 +18,12 @@ Integrantes:
 
 **Processos feitos:**
 
-[clique aqui para acessar a proposta](https://github.com/Ghostdoce/IHC2/tree/main/docs/1.%20Proposta)
+[Clique aqui para acessar a Proposta](https://github.com/Ghostdoce/IHC2/tree/main/docs/1.%20Proposta)
 
 
-[clique aqui para acessar o design_thinking](https://github.com/Ghostdoce/IHC2/tree/main/docs/2.%20Design_Thinking)
+[Clique aqui para acessar o Design_Thinking](https://github.com/Ghostdoce/IHC2/tree/main/docs/2.%20Design_Thinking)
+
+[Clique aqui para acessar o Desing de Alternativas](https://github.com/Ghostdoce/IHC2/tree/main/docs/3.%20Design_Alternativas)
 
 ###  Referências
 
