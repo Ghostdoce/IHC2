@@ -25,6 +25,8 @@ Integrantes:
 
 [Clique aqui para acessar o Desing de Alternativas](https://github.com/Ghostdoce/IHC2/tree/main/docs/3.%20Design_Alternativas)
 
+[Clique aqui para acessar o Design interface](docs/4. Design_Interface)
+
 ###  Referências
 
 
